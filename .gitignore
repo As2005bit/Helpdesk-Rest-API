@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# SQLite database
+tickets.db
+*.db-journal
+
+# Testing and coverage
+.pytest_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# IDE and editor files
+.vscode/
+.idea/
