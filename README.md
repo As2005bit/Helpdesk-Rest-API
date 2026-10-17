@@ -1,4 +1,4 @@
-# Helpdesk API
+# Helpdesk REST API
 
 A REST API for managing support tickets using FastAPI and SQLite.
 
